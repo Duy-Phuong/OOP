@@ -1,0 +1,9 @@
+MSSV: 1512418
+Ten: Tran Duy Phuong
+mail: tranduyphuong20100@gmail.com
+
+Chuc nang da hoan thanh:
+1. CHE TAO ROBOT TU TAP TIN
+2. XUAT THONG TIN SO ROBOT TAO RA
+3. NANG LUONG VA THOI GIAN TIEU THU
+4. THONG KE TAI NGUYEN DA SU DUNG

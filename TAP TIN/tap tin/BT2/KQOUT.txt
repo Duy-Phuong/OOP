@@ -1,0 +1,4 @@
+Ten                 Dia Chi        SDT            ID          Lop       Diem 
+Trieu Van Than      Ha Noi         0948  0988 10  B14DCCN 175 D14CN4    09.50
+Nguyen Thu Phuong   Ha Noi         0978 7988 74   B14DCCN 246 D14CN5    09.30
+Tran Thanh Tung     Ha Noi         0912 412 413   B14DCCN 135 D14CN4    09.70

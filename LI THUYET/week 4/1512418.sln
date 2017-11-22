@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai 4.1", "Bai 4.1\Bai 4.1.vcxproj", "{9BAC41BF-6100-42C9-B8D8-195C82B8EBB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai 4.2", "Bai 4.2\Bai 4.2.vcxproj", "{EDDDEFFB-96F2-470A-9B6F-1E67CCE32585}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai 4.3", "Bai 4.3\Bai 4.3.vcxproj", "{AE963790-6DF4-46E9-A607-DE4473F4E31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAC41BF-6100-42C9-B8D8-195C82B8EBB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9BAC41BF-6100-42C9-B8D8-195C82B8EBB8}.Debug|Win32.Build.0 = Debug|Win32
+		{9BAC41BF-6100-42C9-B8D8-195C82B8EBB8}.Release|Win32.ActiveCfg = Release|Win32
+		{9BAC41BF-6100-42C9-B8D8-195C82B8EBB8}.Release|Win32.Build.0 = Release|Win32
+		{EDDDEFFB-96F2-470A-9B6F-1E67CCE32585}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDDDEFFB-96F2-470A-9B6F-1E67CCE32585}.Debug|Win32.Build.0 = Debug|Win32
+		{EDDDEFFB-96F2-470A-9B6F-1E67CCE32585}.Release|Win32.ActiveCfg = Release|Win32
+		{EDDDEFFB-96F2-470A-9B6F-1E67CCE32585}.Release|Win32.Build.0 = Release|Win32
+		{AE963790-6DF4-46E9-A607-DE4473F4E31A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE963790-6DF4-46E9-A607-DE4473F4E31A}.Debug|Win32.Build.0 = Debug|Win32
+		{AE963790-6DF4-46E9-A607-DE4473F4E31A}.Release|Win32.ActiveCfg = Release|Win32
+		{AE963790-6DF4-46E9-A607-DE4473F4E31A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

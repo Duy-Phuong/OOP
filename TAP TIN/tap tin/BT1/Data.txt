@@ -1,0 +1,10 @@
+1
+tran
+duy
+2
+phuong	3
+0
+tran0
+duy0
+21
+phuong0	31
